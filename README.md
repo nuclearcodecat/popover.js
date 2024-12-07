@@ -35,6 +35,8 @@ fields with their names prefixed by `?` are not required
  - `popover.js` must be loaded before the script initializing a popover
 
 # example initialization
+**tailwindcss is used in the example, it is not essential. you can create a css file with keyframes and classes, and then pass the class names to the constructor**
+
 tailwind config
 ```
 module.exports = {
@@ -70,9 +72,8 @@ module.exports = {
     },
   ],
 }
-
-
 ```
+
 html
 ```
 <button id="acc-btn">
@@ -94,6 +95,7 @@ html
     </form>
 </div>
 ```
+
 js
 ```
 const acc_btn = document.querySelector('#acc-btn');
