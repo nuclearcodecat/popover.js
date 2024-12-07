@@ -1,4 +1,4 @@
-# popover.js
+# popover.js version 1
 a noncomplex, customizable javascript library for managing popovers
 
 # features
