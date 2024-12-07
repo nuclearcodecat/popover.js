@@ -1,3 +1,6 @@
+// github.com/nuclearcodecat/popover.js
+// version 1
+
 class Popover {
     constructor({
         activator,
