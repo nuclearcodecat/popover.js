@@ -9,7 +9,7 @@ a noncomplex, customizable javascript library for managing popovers
  - keyboard support
 
 # demo
-| top-down slide animation                                                                    | sideways curtain animation                                                                  | keyboard control                                                                            |
+| top-down slide animation                                                                    | rotated curtain animation                                                                   | keyboard control                                                                            |
 |---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
 | ![topdown](https://github.com/user-attachments/assets/c5a4aeb2-87d4-4c1e-a7c8-60203ad33747) | ![open](https://github.com/user-attachments/assets/b9d02247-faee-4616-8413-e049933b4b15)    | ![kctr](https://github.com/user-attachments/assets/0bfb98e4-ce90-4d88-9439-fcd318d25a14) |
 
